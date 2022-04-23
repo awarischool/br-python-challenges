@@ -1,2 +1,2 @@
-# Desafios com Python 3
-Nesta pasta estaremos colocando alguns desafios à serem resolvidos com Python. Abra-os no Jupyter notebook ou Google Colab, resolva-os e nos envie para revisão a partir de um pull request para a pasta da turma.
+# Challenges for Python 3
+On this repository there are some challenges solved with Python. I used Google Colab to solve them, and shared the copy on this folder.
